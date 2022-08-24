@@ -38,6 +38,6 @@ dependencies {
     api 'com.google.code.gson:gson:2.8.6'
     implementation files('libs/iHealthSDK_2.9.8.jar')
     implementation 'org.greenrobot:greendao:3.2.2'
-    implementation 'no.nordicsemi.android:dfu:1.6.1'
+    implementation 'no.nordicsemi.android:dfu:1.9.1'
     implementation 'com.alibaba:fastjson:1.2.48'
 }
